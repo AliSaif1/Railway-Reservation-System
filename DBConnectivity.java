@@ -10,8 +10,8 @@ public class DBConnectivity {
     private static Connection connection = null;
     private static PreparedStatement preparedStatement = null;
     private static final String databaseName = "jdbc:mysql://localhost/RailwayTicketReservation";
-    private static final String userName = "root";
-    private static final String password = "ALI11297";
+    private static final String userName = "";
+    private static final String password = "";
 
     public DBConnectivity() {
     }
